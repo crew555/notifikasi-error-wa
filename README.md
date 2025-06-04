@@ -21,7 +21,7 @@ npm install whatsapp-web.js qrcode-terminal
 1. Buka file `test-error.js`
 2. Ganti nomor WhatsApp tujuan pada baris yang berisi `setTargetNumber` dengan nomor WhatsApp yang akan menerima notifikasi
    - Format: "62xxxxxxxxxxx" (gunakan kode negara 62 untuk Indonesia, tanpa tanda + atau 0 di depan)
-   - Contoh: "6282119172702"
+   - Contoh: "6282119172xx"
 
 ## Cara Menggunakan
 
